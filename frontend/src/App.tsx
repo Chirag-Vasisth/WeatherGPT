@@ -1263,6 +1263,7 @@ export default function App() {
                 fontSize: "clamp(1.8rem, 3vw, 2.6rem)",
                 color: "var(--fg)",
                 fontStyle: "italic",
+                
                 lineHeight: 1.2,
               }}
             >
