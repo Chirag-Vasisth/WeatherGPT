@@ -1,0 +1,10 @@
+{
+  "description": "Get real-time weather updates and forecasts with engaging animations, designed for users seeking accurate and visually appealing weather information.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
